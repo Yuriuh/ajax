@@ -8,7 +8,7 @@
  *
  **/
 
- class EasyHttp{
+ class Request{
    // get 
    get (url) {
      return new Promise((resolve,reject) => {
